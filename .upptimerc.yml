@@ -13,6 +13,12 @@ sites:
     url: https://cartoonized.netlify.app/ 
   - name: animated
     url: https://s-codes14.github.io/animated 
+  - name: Gradientful
+    url: https://gradientful.netlify.app/
+  - name: lordreklaw
+    url: https://lordreklaw.netlify.app/
+  - name: chess
+    url: https://s-chess.netlify.app/ 
     
  
 status-website: 
