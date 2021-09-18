@@ -5,10 +5,15 @@ repo: upptime # The name of this repository
 sites:
   - name: portfolio
     url: https://s-codes14.github.io
-  - name: sites
+  - name: smaller sites
     url: https://smaller-sites.netlify.app
   - name: 30sekify
     url: https://30sekify.netlify.app
+  - name: cartoonized
+    url: https://cartoonized.netlify.app/ 
+  - name: animated
+    url: https://s-codes14.github.io/animated 
+    
  
 status-website: 
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
