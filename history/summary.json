@@ -58,19 +58,19 @@
     "url": "https://cartoonized.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/cartoonized.netlify.app",
     "slug": "cartoonized",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 70,
-    "timeWeek": 129,
-    "timeMonth": 124,
-    "timeYear": 145,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 147,
+    "timeDay": 122,
+    "timeWeek": 140,
+    "timeMonth": 127,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2021-10-26": 0
+      "2021-10-26": 24
     }
   },
   {
