@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 201,
-    "timeWeek": 138,
-    "timeMonth": 121,
+    "timeDay": 159,
+    "timeWeek": 143,
+    "timeMonth": 123,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 78,
-    "timeWeek": 89,
-    "timeMonth": 114,
+    "timeDay": 77,
+    "timeWeek": 100,
+    "timeMonth": 117,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2021-12-20": 15
@@ -49,8 +49,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 150,
-    "timeDay": 102,
-    "timeWeek": 94,
+    "timeDay": 80,
+    "timeWeek": 100,
     "timeMonth": 100,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -69,9 +69,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 129,
-    "timeDay": 67,
-    "timeWeek": 79,
-    "timeMonth": 111,
+    "timeDay": 64,
+    "timeWeek": 87,
+    "timeMonth": 113,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2021-12-20": 15,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 122,
+    "timeDay": 117,
+    "timeWeek": 123,
+    "timeMonth": 123,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -102,19 +102,17 @@
     "icon": "https://favicons.githubusercontent.com/gradientful.netlify.app",
     "slug": "gradientful",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 67,
-    "timeWeek": 161,
-    "timeMonth": 94,
+    "timeDay": 70,
+    "timeWeek": 163,
+    "timeMonth": 97,
     "timeYear": 104,
-    "dailyMinutesDown": {
-      "2021-12-20": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lordreklaw",
@@ -122,19 +120,17 @@
     "icon": "https://favicons.githubusercontent.com/lordreklaw.netlify.app",
     "slug": "lordreklaw",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 68,
-    "timeWeek": 137,
-    "timeMonth": 107,
+    "timeWeek": 148,
+    "timeMonth": 110,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2021-12-20": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "chess",
@@ -142,18 +138,16 @@
     "icon": "https://favicons.githubusercontent.com/s-chess.netlify.app",
     "slug": "chess",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 247,
-    "timeDay": 71,
-    "timeWeek": 85,
-    "timeMonth": 74,
-    "timeYear": 247,
-    "dailyMinutesDown": {
-      "2021-12-20": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 245,
+    "timeDay": 64,
+    "timeWeek": 93,
+    "timeMonth": 76,
+    "timeYear": 245,
+    "dailyMinutesDown": {}
   }
 ]
