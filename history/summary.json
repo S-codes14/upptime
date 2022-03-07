@@ -120,19 +120,19 @@
     "url": "https://lordreklaw.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/lordreklaw.netlify.app",
     "slug": "lordreklaw",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 63,
-    "timeWeek": 71,
-    "timeMonth": 95,
+    "timeDay": 45,
+    "timeWeek": 66,
+    "timeMonth": 93,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2022-03-07": 0
+      "2022-03-07": 9
     }
   },
   {
