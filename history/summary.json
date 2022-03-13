@@ -139,19 +139,19 @@
     "url": "https://s-chess.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/s-chess.netlify.app",
     "slug": "chess",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.98%",
-    "time": 179,
-    "timeDay": 92,
-    "timeWeek": 99,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.97%",
+    "time": 178,
+    "timeDay": 100,
+    "timeWeek": 100,
     "timeMonth": 130,
-    "timeYear": 179,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-03-13": 47
+      "2022-03-13": 84
     }
   }
 ]
