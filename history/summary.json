@@ -42,9 +42,9 @@
     "url": "https://30sekify.netlify.app",
     "icon": "https://favicons.githubusercontent.com/30sekify.netlify.app",
     "slug": "30sekify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -54,6 +54,7 @@
     "timeMonth": 304,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2022-04-05": 0,
       "2022-03-30": 20,
       "2021-12-20": 15
     }
