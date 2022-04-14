@@ -22,9 +22,9 @@
     "url": "https://smaller-sites.netlify.app",
     "icon": "https://favicons.githubusercontent.com/smaller-sites.netlify.app",
     "slug": "smaller-sites",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 159,
     "timeYear": 162,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2021-12-20": 15
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://30sekify.netlify.app",
     "icon": "https://favicons.githubusercontent.com/30sekify.netlify.app",
     "slug": "30sekify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -54,6 +55,7 @@
     "timeMonth": 282,
     "timeYear": 153,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-03-30": 20,
       "2021-12-20": 15
     }
@@ -63,19 +65,19 @@
     "url": "https://cartoonized.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/cartoonized.netlify.app",
     "slug": "cartoonized",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 163,
     "timeDay": 242,
     "timeWeek": 107,
     "timeMonth": 180,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2022-04-14": 10,
+      "2022-04-14": 0,
       "2022-03-30": 20,
       "2022-03-09": 20,
       "2022-01-31": 25,
@@ -124,9 +126,9 @@
     "url": "https://lordreklaw.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/lordreklaw.netlify.app",
     "slug": "lordreklaw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,7 +137,9 @@
     "timeWeek": 209,
     "timeMonth": 133,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "chess",
