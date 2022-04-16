@@ -19,6 +19,10 @@ sites:
     url: https://lordreklaw.netlify.app/
   - name: chess
     url: https://s-chess.netlify.app/ 
+  - name: blog
+    url: https://blog-s-codes14.netlify.app/
+  - name: Rando prototype
+    url: https://test-rando1.herokuapp.com
     
  
 status-website: 
