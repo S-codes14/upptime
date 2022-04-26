@@ -188,9 +188,9 @@
     "url": "https://test-rando1.herokuapp.com",
     "icon": "https://favicons.githubusercontent.com/test-rando1.herokuapp.com",
     "slug": "rando-prototype",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -199,6 +199,8 @@
     "timeWeek": 200,
     "timeMonth": 2189,
     "timeYear": 2189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-26": 0
+    }
   }
 ]
