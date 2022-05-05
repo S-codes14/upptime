@@ -22,10 +22,10 @@
     "url": "https://smaller-sites.netlify.app",
     "icon": "https://favicons.githubusercontent.com/smaller-sites.netlify.app",
     "slug": "smaller-sites",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 164,
@@ -34,6 +34,7 @@
     "timeMonth": 174,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2022-05-05": 1,
       "2022-04-14": 31,
       "2021-12-20": 15
     }
@@ -43,10 +44,10 @@
     "url": "https://30sekify.netlify.app",
     "icon": "https://favicons.githubusercontent.com/30sekify.netlify.app",
     "slug": "30sekify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 158,
@@ -55,6 +56,7 @@
     "timeMonth": 172,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2022-05-05": 1,
       "2022-04-14": 31,
       "2022-03-30": 20,
       "2021-12-20": 15
@@ -65,10 +67,10 @@
     "url": "https://cartoonized.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/cartoonized.netlify.app",
     "slug": "cartoonized",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 156,
@@ -77,6 +79,7 @@
     "timeMonth": 95,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2022-05-05": 1,
       "2022-04-14": 31,
       "2022-03-30": 20,
       "2022-03-09": 20,
@@ -108,11 +111,11 @@
     "url": "https://gradientful.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/gradientful.netlify.app",
     "slug": "gradientful",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 115,
     "timeDay": 32,
@@ -120,6 +123,7 @@
     "timeMonth": 162,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2022-05-05": 1,
       "2022-04-19": 46
     }
   },
@@ -129,18 +133,17 @@
     "icon": "https://favicons.githubusercontent.com/lordreklaw.netlify.app",
     "slug": "lordreklaw",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.98%",
     "time": 165,
     "timeDay": 1573,
     "timeWeek": 564,
     "timeMonth": 536,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2022-05-05": 9,
       "2022-04-19": 46,
       "2022-04-14": 31
     }
@@ -150,9 +153,9 @@
     "url": "https://s-chess.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/s-chess.netlify.app",
     "slug": "chess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -162,6 +165,7 @@
     "timeMonth": 119,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2022-05-05": 1,
       "2022-04-05": 16,
       "2022-03-13": 84
     }
