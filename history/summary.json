@@ -22,10 +22,10 @@
     "url": "https://smaller-sites.netlify.app",
     "icon": "https://favicons.githubusercontent.com/smaller-sites.netlify.app",
     "slug": "smaller-sites",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 172,
@@ -34,6 +34,7 @@
     "timeMonth": 207,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2022-05-17": 1,
       "2022-05-05": 39,
       "2022-04-14": 31,
       "2021-12-20": 15
@@ -111,11 +112,11 @@
     "url": "https://gradientful.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/gradientful.netlify.app",
     "slug": "gradientful",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 119,
     "timeDay": 1175,
@@ -123,6 +124,7 @@
     "timeMonth": 138,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2022-05-17": 1,
       "2022-05-05": 39,
       "2022-04-19": 46
     }
@@ -132,11 +134,11 @@
     "url": "https://lordreklaw.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/lordreklaw.netlify.app",
     "slug": "lordreklaw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 165,
     "timeDay": 45,
@@ -144,6 +146,7 @@
     "timeMonth": 529,
     "timeYear": 165,
     "dailyMinutesDown": {
+      "2022-05-17": 1,
       "2022-04-19": 46,
       "2022-04-14": 31
     }
@@ -175,9 +178,9 @@
     "url": "https://blog-s-codes14.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/blog-s-codes14.netlify.app",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -186,7 +189,9 @@
     "timeWeek": 218,
     "timeMonth": 184,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "Rando prototype",
