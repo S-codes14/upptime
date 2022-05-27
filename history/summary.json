@@ -198,18 +198,19 @@
     "url": "https://test-rando1.herokuapp.com",
     "icon": "https://favicons.githubusercontent.com/test-rando1.herokuapp.com",
     "slug": "rando-prototype",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 679,
-    "timeDay": 69,
-    "timeWeek": 100,
-    "timeMonth": 151,
-    "timeYear": 679,
+    "time": 668,
+    "timeDay": 135,
+    "timeWeek": 113,
+    "timeMonth": 152,
+    "timeYear": 668,
     "dailyMinutesDown": {
+      "2022-05-27": 0,
       "2022-04-26": 19
     }
   }
